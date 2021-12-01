@@ -1,2 +1,2 @@
-# demo-calculator
-This is just for save demo of `Dori Calculator`
+# Demo Calculator
+This is just for save demo of `Dori Calculator`!
